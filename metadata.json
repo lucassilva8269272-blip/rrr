@@ -1,0 +1,8 @@
+{
+  "name": "TerraForge 3D - Studio de Terrenos & Ilhas",
+  "description": "Editor 3D profissional com escultura de terreno em tempo real, geração procedural de ilhas e continentes, e modo walk 1:50 com névoa atmosférica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

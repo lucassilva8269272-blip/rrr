@@ -1,0 +1,6 @@
+{
+  "summary": "Plano revisado para transformar o mapa em uma maquete/diorama 3D retangular (como nas imagens de referência), com zoom contínuo de macro a micro que se adapta dinamicamente à distância da câmera (revelando microdetalhes de solo e relevo conforme você se aproxima), movimentação fluida por WSAD e correção definitiva da cor inicial para um verde natural vibrante.",
+  "updatedAt": "2026-10-13T21:56:11.895031224Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
